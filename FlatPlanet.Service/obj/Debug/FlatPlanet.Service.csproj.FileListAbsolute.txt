@@ -1,0 +1,9 @@
+F:\Projects\FlatPlanet.Service\bin\Debug\FlatPlanet.Service.dll
+F:\Projects\FlatPlanet.Service\bin\Debug\FlatPlanet.Service.pdb
+F:\Projects\FlatPlanet.Service\bin\Debug\FlatPlanet.Database.dll
+F:\Projects\FlatPlanet.Service\bin\Debug\EntityFramework.dll
+F:\Projects\FlatPlanet.Service\bin\Debug\FlatPlanet.Database.pdb
+F:\Projects\FlatPlanet.Service\bin\Debug\EntityFramework.xml
+F:\Projects\FlatPlanet.Service\obj\Debug\FlatPlanet.Service.csprojResolveAssemblyReference.cache
+F:\Projects\FlatPlanet.Service\obj\Debug\FlatPlanet.Service.dll
+F:\Projects\FlatPlanet.Service\obj\Debug\FlatPlanet.Service.pdb

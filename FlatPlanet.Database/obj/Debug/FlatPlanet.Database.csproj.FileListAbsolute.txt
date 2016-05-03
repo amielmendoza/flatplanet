@@ -1,0 +1,10 @@
+F:\Projects\FlatPlanet.Database\bin\Debug\FlatPlanet.Database.dll.config
+F:\Projects\FlatPlanet.Database\bin\Debug\FlatPlanet.Database.dll
+F:\Projects\FlatPlanet.Database\bin\Debug\FlatPlanet.Database.pdb
+F:\Projects\FlatPlanet.Database\bin\Debug\EntityFramework.dll
+F:\Projects\FlatPlanet.Database\bin\Debug\EntityFramework.xml
+F:\Projects\FlatPlanet.Database\obj\Debug\FlatPlanet.Database.csprojResolveAssemblyReference.cache
+F:\Projects\FlatPlanet.Database\obj\Debug\FlatPlanet.Database.dll
+F:\Projects\FlatPlanet.Database\obj\Debug\FlatPlanet.Database.pdb
+F:\Projects\FlatPlanet.Database\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\FlatPlanet.Database\bin\Debug\EntityFramework.SqlServer.xml
